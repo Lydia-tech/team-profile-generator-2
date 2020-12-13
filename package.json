@@ -4,7 +4,8 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "init": "node ./app"
   },
   "repository": {
     "type": "git",
@@ -18,5 +19,8 @@
   "homepage": "https://github.com/Lydia-tech/team-profile-generator-2#readme",
   "devDependencies": {
     "jest": "^26.6.3"
+  },
+  "dependencies": {
+    "inquirer": "^7.3.3"
   }
 }
