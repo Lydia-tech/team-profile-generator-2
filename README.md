@@ -21,5 +21,4 @@ Create a web page that lists the people in your team. Use this command-line appl
 
 ## Example
 
-![](readme_assets/output_preview.png)
-`
+![](./screenshot.png)
